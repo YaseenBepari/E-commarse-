@@ -39,14 +39,6 @@ Note: The payment page is created only for demo purpose and its not fully integr
 3. Database:
 - MySql
 
-### ================ Software And Tools Required ================
-- : Git [https://www.youtube.com/watch?v=gv7VPQ4LZ7g]
-- : Java JDK 8+ [https://www.youtube.com/watch?v=O9PWH9SeTTE]
-- : Eclipse EE (Enterprise Edition) [https://www.youtube.com/watch?v=8aDsEV7txXE]
-- : Apache Maven [https://www.youtube.com/watch?v=jd2zx3dLjuw]
-- : Tomcat v8.0+ [https://youtu.be/mLFPodZO8Iw?t=903]
-- : MySQL Server [https://www.youtube.com/watch?v=Ydh5jYA6Frs]
-- : MySQL Workbench [https://www.youtube.com/watch?v=t79oCeTXHwg]
 
 ### ================= Dummy Database Initialization =================
 STEP 1: Open MySQL Command Prompt or MySQL Workbench
@@ -55,7 +47,7 @@ STEP 2: Login to the administrator user of MySql:
 	 ```mysql -u <username> -p``` (Enter Password if asked)
 
 STEP 3: Copy paste and execute the MySQL Query from the following file:-
-- Run the Sql Query From this file: [databases/mysql_query.sql](./databases/mysql_query.sql)
+- Run the Sql Query 
 
 ### ======GENERATING GMAIL APP PASSWORD [For Mailing Functionalities]========
 Step 1: Create a gmail account or login to existing account in any browser
